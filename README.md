@@ -10,4 +10,5 @@
 | 牛街西里 | 596  |57.67|| 103347| 11.4 |1室1厅| ⾼楼层共19层|东 南|https://bj.ke.com/ershoufang/101112773349.html?fb_expo_id=486213554082254853 ![avatar](./img/1.png)|
 | 牛街西里 | 518   |54.73|| 94647| 4.9 |1室1厅| 中楼层共19层|南|https://bj.ke.com/ershoufang/101106094177.html?fb_expo_id=486212682925117442 ![avatar](./img/2.png)|
 | 牛街西里 | 608   |57.67| 37.89|105428| 5.9 |1室1厅| 中楼层共19层|西南|https://bj.ke.com/ershoufang/101112507405.html?fb_expo_id=486213554082254850 ![avatar](./img/3.png)|
+| 牛街西里 | 610   |54.73| |111457| 61.3 |1室1厅| 高楼层共19层|南|https://bj.ke.com/ershoufang/101110412359.html?fb_expo_id=486212682925117445 ![avatar](./img/4.png)|
 
